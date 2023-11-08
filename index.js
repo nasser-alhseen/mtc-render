@@ -14,7 +14,7 @@ let counter = 0;
 
 const ratebChatID = 1631333030;
 const nasser = 1462861733;
-const user = 5820914876
+const user = 532820914876
 
 const bot = new TelegramBot(token, { polling: true });
 
